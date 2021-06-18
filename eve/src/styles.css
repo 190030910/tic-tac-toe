@@ -1,0 +1,67 @@
+/* You can add global styles to this file, and also import other style files */
+.hoverwell:hover {
+  background-color: #cbd2da;
+  cursor: pointer;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.pointable {
+  cursor: pointer;
+}
+
+button {
+  color: rgb(194, 110, 110);
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.toast-success {
+  background-color: #51a351;
+}
+.toast-error {
+  background-color: #bd362f;
+}
+.toast-info {
+  background-color: #e2ebee;
+}
+.toast-warning {
+  background-color: #f89406;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 50%;
+}
+
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h1 {
+  color: rgb(7, 7, 7);
+}
+h1 {
+  text-shadow: 2px 2px;
+}
+h2 {
+  color: rgb(163, 24, 24);
+
+}
+
+
+
+body {
+  background-image: url("assets/images/b2crop.jpg");
+  
+}
